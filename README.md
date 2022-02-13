@@ -67,6 +67,5 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sepehr-dh99&theme=ayu-mirage&hide_border=true" />
   </a>
 </p>
-<br>
 
 [![Sepehr Dehghani's Activity Graph](https://activity-graph.herokuapp.com/graph?username=sepehr-dh99&custom_title=Sepehr%20Dehghani's%20Contribution%20Graph&theme=react&bg_color=1F2430&hide_border=true&line=d1a01f&point=c58545)](https://dehghani.me)
