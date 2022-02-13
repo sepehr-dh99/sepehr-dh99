@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232A2E7E&center=true&width=200&height=30&lines=Software+Engineer)](https://git.io/typing-svg)
 
-![Github Banner](https://github.com/sepehr-dh99/sepehr-dh99/assets/banner.png)
+![Github Banner](https://github.com/sepehr-dh99/sepehr-dh99/blob/master/assets/banner.png)
 
 <br>
 
