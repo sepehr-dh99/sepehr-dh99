@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
+<h1 align="center">Hi 👋, I'm Sepehr Dehghani</h1>
 
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232A2E7E&center=true&width=200&height=30&lines=Software+Engineer)](https://git.io/typing-svg)
+
+![Github Banner](https://github.com/sepehr-dh99/banner.png)
 
 <br>
 
