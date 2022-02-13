@@ -5,12 +5,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230E99D2&center=true&vCenter=true&width=200&height=30&lines=Software+Engineer)](https://git.io/typing-svg)
 
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/sepehr-dh99/sepehr-dh99/blob/master/assets/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **adampithewan@gmail.com**
+- 📫 How to reach me **sepehr.dh99@gmail.com**
 
 - ⚡ Fun fact :- food and anime are the reasons to live.
 
