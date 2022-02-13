@@ -6,7 +6,7 @@
 
 <p><img align="right" src="https://github.com/sepehr-dh99/sepehr-dh99/blob/master/assets/animation_500_kxa883sd.gif" alt="sepehr" /></p>
 
-- 🌱 I’m currently a Frontend Developer at KheiliSabz
+- 🌱 Frontend Developer with 5 years of experience!
 
 - 📫 How to reach me **sepehr.dh99@gmail.com**
 
