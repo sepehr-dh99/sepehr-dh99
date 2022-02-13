@@ -21,17 +21,14 @@
   <a href="https://www.linkedin.com/in/sepehr-dehghani/" target="blank">
   
   ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
-  
   </a>
   <a href="https://instagram.com/sepehr.develop?utm_medium=copy_link" target="blank">
   
   ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
-
   </a>
   <a href="https://twitter.com/sep4everr" target="blank">
   
   ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)
-
   </a>
   <a href="https://stackoverflow.com/users/14765965/sepehr-dehghani" target="blank">
   
