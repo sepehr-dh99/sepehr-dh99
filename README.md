@@ -62,7 +62,6 @@
 
 ## 📊 My Statistics
 
-<br/>
 <p align="left">
   <a href="https://abhigyantrips.dev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sepehr-dh99&show_icons=true&theme=ayu-mirage&hide_border=true" />
