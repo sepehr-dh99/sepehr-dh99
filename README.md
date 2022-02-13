@@ -69,4 +69,4 @@
 </p>
 <br>
 
-[![Sepehr Dehghani's Activity Graph](https://activity-graph.herokuapp.com/graph?username=sepehr-dh99&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=react&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://dehghani.me)
+[![Sepehr Dehghani's Activity Graph](https://activity-graph.herokuapp.com/graph?username=sepehr-dh99&custom_title=Sepehr%20Dehghani's%20Contribution%20Graph&theme=react&hide_border=true&line=d1a01f&point=c58545)](https://dehghani.me)
