@@ -16,7 +16,6 @@
 
 ## 📠 Connect with me
 
-<br/>
 <p align="left">
   <a href="https://www.linkedin.com/in/sepehr-dehghani/" target="blank">
 
@@ -41,7 +40,6 @@
 
 ## 🛠 Technologies and Languages
 
-<br/>
 <p align="left">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
