@@ -58,7 +58,7 @@
 
 <br>
 
-## My Statistics
+## 📊 My Statistics
 
 <br/>
 <p align="left">
