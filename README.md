@@ -1,18 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sepehr Dehghani</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232A2E7E&center=true&width=200&height=30&lines=Software+Engineer)](https://git.io/typing-svg)
-
 ![Github Banner](https://github.com/sepehr-dh99/sepehr-dh99/blob/master/assets/banner.png)
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
-<br>
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230E99D2&center=true&vCenter=true&width=200&height=30&lines=Software+Engineer)](https://git.io/typing-svg)
+</p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
