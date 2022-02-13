@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232A2E7E&center=true&width=200&height=30&lines=Software+Engineer)](https://git.io/typing-svg)
+
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 <br>
