@@ -17,10 +17,10 @@
 <br>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"></p>
+<p align="left">
   <a href="https://www.linkedin.com/in/sepehr-dehghani/" target="blank">
   
-  ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
+  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
   
   </a>
   <a href="https://instagram.com/sepehr.develop?utm_medium=copy_link" target="blank">
